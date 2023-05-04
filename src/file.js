@@ -69,7 +69,6 @@ MullenLowe.addEventListener('click', function () {
 
 Starry.addEventListener('click', function () {
   Starry.style.color = '#64ffda';
-  // Starry.style.borderLeft = 'thick solid  #64ffda';
 
   headspan.textContent = 'Software Engineer Co-op    ';
 
