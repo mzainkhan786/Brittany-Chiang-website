@@ -1,0 +1,22 @@
+.work-sec {
+  overflow: hidden;
+}
+.line {
+  display: flex;
+  gap: 20px;
+  margin-top: 15px;
+  overflow: scroll;
+  /* border-bottom: 1px solid gray; */
+}
+.line h2 {
+  margin: 12px 20px;
+  margin-top: 12px;
+  font-weight: 300;
+  font-size: 16px;
+  color: #7c8192;
+
+  cursor: pointer;
+}
+.line::-webkit-scrollbar {
+  display: none;
+}
